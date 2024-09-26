@@ -103,3 +103,4 @@ ERROR: 2024/09/26 14:41:55 user_repo.go:43: [service.getuserbyusername]error in 
 ERROR: 2024/09/26 14:49:01 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
 ERROR: 2024/09/26 14:58:47 main.go:55: Insert data not succesfuly
 ERROR: 2024/09/26 15:02:17 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/26 17:13:52 main.go:55: Insert data not succesfuly

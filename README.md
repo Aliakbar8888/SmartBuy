@@ -52,5 +52,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Aliakbar8888/SmartBuy.git
    cd smartbuy

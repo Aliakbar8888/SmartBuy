@@ -112,16 +112,6 @@ paths:
         in: query
         name: q
         type: string
-      - description: fill if you need search
-        in: query
-        name: is_response
-        required: true
-        type: boolean
-      - description: fill if you need search
-        in: query
-        name: price
-        required: true
-        type: integer
       produces:
       - application/json
       responses:
@@ -307,16 +297,6 @@ paths:
         in: query
         name: q
         type: string
-      - description: fill if you need search
-        in: query
-        name: is_response
-        required: true
-        type: boolean
-      - description: fill if you need search
-        in: query
-        name: price
-        required: true
-        type: integer
       produces:
       - application/json
       responses:
