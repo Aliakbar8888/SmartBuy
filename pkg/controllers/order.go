@@ -38,7 +38,7 @@ func CreateOrder(c *gin.Context) {
 		return
 	}
 	orderRequest.UserID = userID
-	orderRequest.Total += orderRequest.Product.Price * float64(orderRequest.Quantity)
+	// orderRequest.Total += orderRequest.Product.Price * float64(orderRequest.Quantity)
 
 	err := service.CreateOrder(orderRequest)
 	if err != nil {
