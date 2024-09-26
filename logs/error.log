@@ -1,0 +1,105 @@
+ERROR: 2024/09/20 17:41:41 main.go:60: Insert data not succesfuly
+ERROR: 2024/09/20 17:50:07 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/20 17:50:26 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/20 17:56:15 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/20 18:06:05 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/20 18:40:10 main.go:60: Insert data not succesfuly
+ERROR: 2024/09/20 18:40:34 main.go:60: Insert data not succesfuly
+ERROR: 2024/09/20 18:42:10 main.go:60: Insert data not succesfuly
+ERROR: 2024/09/20 18:49:42 main.go:60: Insert data not succesfuly
+ERROR: 2024/09/21 12:23:31 main.go:60: Insert data not succesfuly
+ERROR: 2024/09/21 12:24:17 main.go:60: Insert data not succesfuly
+ERROR: 2024/09/21 12:24:47 main.go:60: Insert data not succesfuly
+ERROR: 2024/09/21 12:55:39 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/21 13:39:17 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/21 13:59:22 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/21 14:02:08 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/21 14:39:20 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/21 16:01:33 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/23 11:07:59 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/23 11:09:05 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/23 12:58:11 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/23 14:07:38 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/23 17:07:58 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/23 17:10:48 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/23 23:22:23 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/23 23:29:32 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/24 10:11:18 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/24 10:14:57 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/24 11:13:53 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/24 11:14:52 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/24 11:20:51 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/24 11:22:38 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/24 11:24:10 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/24 11:25:27 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/24 11:59:16 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/24 11:59:36 products.go:87: [controllers.GetAllProducts] Error converting minPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/24 12:04:13 products.go:87: [controllers.GetAllProducts] Error converting minPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/24 12:04:57 products.go:87: [controllers.GetAllProducts] Error converting minPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/24 12:11:45 products.go:96: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/24 12:14:00 products.go:96: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/24 12:14:30 products.go:96: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/24 12:43:00 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/24 12:43:45 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/24 12:45:31 products.go:87: [controllers.GetAllProducts] Error converting minPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/24 12:45:51 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/24 12:46:19 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/24 12:46:54 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/24 12:48:18 products.go:87: [controllers.GetAllProducts] Error converting minPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/24 12:51:26 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/24 12:52:52 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/24 12:55:26 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/24 12:55:52 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/24 12:56:13 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/24 12:57:30 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/24 13:33:33 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 10:10:22 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 10:11:26 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/25 10:13:21 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/25 10:14:39 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/25 10:14:42 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/25 10:16:10 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 10:16:19 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/25 10:16:21 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/25 10:20:37 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 10:21:05 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/25 10:21:18 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/25 10:23:10 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/25 10:23:42 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/25 10:23:48 products.go:95: [controllers.GetAllProducts] Error converting maxPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/25 10:24:11 products.go:87: [controllers.GetAllProducts] Error converting minPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/25 10:24:20 products.go:87: [controllers.GetAllProducts] Error converting minPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/25 10:24:25 products.go:87: [controllers.GetAllProducts] Error converting minPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/25 10:29:44 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 10:31:08 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 10:33:52 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 10:37:19 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 10:41:53 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 10:50:17 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 11:02:54 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 11:28:00 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 11:28:48 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/25 11:29:25 order.go:49: [controllers.AddOrder] error binding order items: json: cannot unmarshal object into Go value of type []models.OrderItem
+ERROR: 2024/09/25 11:29:41 order.go:49: [controllers.AddOrder] error binding order items: json: cannot unmarshal object into Go value of type []models.OrderItem
+ERROR: 2024/09/25 11:31:07 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/25 11:43:44 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 11:50:09 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 12:07:27 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 12:09:47 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 12:13:19 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 12:20:10 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 12:24:58 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 12:26:15 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/25 22:55:50 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 22:57:03 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/25 22:59:00 products.go:90: [controllers.GetAllProducts] Error converting minPrice to int: strconv.Atoi: parsing "": invalid syntax
+ERROR: 2024/09/25 23:03:31 order.go:49: [controllers.AddOrder] error binding order items: json: cannot unmarshal object into Go value of type []models.OrderItem
+ERROR: 2024/09/25 23:04:10 order.go:49: [controllers.AddOrder] error binding order items: json: cannot unmarshal object into Go value of type []models.OrderItem
+ERROR: 2024/09/25 23:08:32 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/25 23:16:08 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/25 23:16:22 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/26 14:41:15 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/26 14:41:55 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/26 14:49:01 user_repo.go:43: [service.getuserbyusername]error in getting user by username  record not found
+ERROR: 2024/09/26 14:58:47 main.go:55: Insert data not succesfuly
+ERROR: 2024/09/26 15:02:17 main.go:55: Insert data not succesfuly

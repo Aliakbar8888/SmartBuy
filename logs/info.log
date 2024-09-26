@@ -1,0 +1,1004 @@
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/20 - 17:50:07 | 500 |     273.649ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/20 - 17:50:26 | 500 |    1.5444306s |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/20 - 17:56:15 | 500 |    1.3843624s |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/20 - 18:06:06 | 201 |    250.7471ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/20 - 18:09:30 | 200 |      2.0497ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/20 - 18:12:37 | 404 |            0s |       127.0.0.1 | POST     "/category"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/20 - 18:14:16 | 404 |            0s |       127.0.0.1 | POST     "/category"
+[GIN] 2024/09/20 - 18:14:59 | 404 |            0s |       127.0.0.1 | POST     "/category"
+[GIN] 2024/09/20 - 18:15:47 | 404 |            0s |       127.0.0.1 | POST     "/category"
+[GIN] 2024/09/20 - 18:17:00 | 200 |       3.308ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/20 - 18:17:53 | 404 |            0s |       127.0.0.1 | GET      "/category"
+[GIN] 2024/09/20 - 18:18:59 | 200 |      4.1987ms |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/20 - 18:22:14 | 403 |       746.2µs |       127.0.0.1 | POST     "/api/product"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/20 - 18:45:13 | 200 |      2.7012ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/20 - 18:47:09 | 401 |        37.7µs |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/20 - 18:47:29 | 200 |       4.932ms |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/20 - 18:48:16 | 403 |       598.5µs |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/20 - 18:48:48 | 403 |      1.1443ms |       127.0.0.1 | GET      "/api/product"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/20 - 18:52:13 | 200 |      7.1573ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/20 - 18:52:18 | 200 |      2.4716ms |       127.0.0.1 | GET      "/api/product"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/20 - 18:55:29 | 200 |    268.0318ms |       127.0.0.1 | GET      "/api/product"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/20 - 19:07:32 | 500 |    269.1496ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/20 - 19:10:19 | 500 |    277.9982ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/20 - 19:10:53 | 500 |    1.4778169s |       127.0.0.1 | POST     "/api/wishlist"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/20 - 19:18:24 | 500 |    273.8572ms |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/20 - 19:22:39 | 500 |    1.5344865s |       127.0.0.1 | POST     "/api/order"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/20 - 19:24:13 | 201 |     15.7552ms |       127.0.0.1 | POST     "/api/order"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/21 - 12:27:55 | 200 |      1.3862ms |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/21 - 12:27:55 | 200 |      1.3165ms |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/21 - 12:27:55 | 200 |      1.1034ms |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/21 - 12:27:55 | 200 |      2.3572ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/21 - 12:27:55 | 500 |            0s |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/21 - 12:27:55 | 200 |       603.4µs |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN] 2024/09/21 - 12:30:40 | 200 |      1.0036ms |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/21 - 12:30:40 | 200 |            0s |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/21 - 12:30:40 | 200 |       504.9µs |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/21 - 12:30:40 | 200 |       2.508ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/21 - 12:30:41 | 500 |            0s |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/21 - 12:30:41 | 200 |     11.3642ms |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/21 - 12:34:10 | 200 |       531.1µs |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/21 - 12:34:10 | 200 |     12.1992ms |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/21 - 12:34:10 | 200 |       522.7µs |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/21 - 12:34:10 | 200 |      2.1018ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/21 - 12:34:10 | 500 |            0s |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/21 - 12:34:10 | 200 |        38.4µs |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN] 2024/09/21 - 12:34:11 | 200 |       175.4µs |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/21 - 12:34:11 | 500 |            0s |             ::1 | GET      "/swagger/doc.json"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/21 - 12:37:22 | 200 |       520.4µs |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/21 - 12:37:22 | 200 |       461.2µs |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/21 - 12:37:22 | 200 |       540.9µs |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/21 - 12:37:22 | 200 |       1.798ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/21 - 12:37:22 | 500 |            0s |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/21 - 12:37:22 | 200 |       358.9µs |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/21 - 12:48:52 | 200 |       563.1µs |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/21 - 12:48:52 | 200 |       428.5µs |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/21 - 12:48:52 | 200 |       850.1µs |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/21 - 12:48:52 | 200 |      2.8259ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/21 - 12:48:52 | 500 |            0s |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/21 - 12:55:28 | 404 |            0s |       127.0.0.1 | PATCH    "/auth/sign-up"
+[GIN] 2024/09/21 - 12:55:39 | 201 |     18.7781ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/21 - 12:56:42 | 200 |      1.1597ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/21 - 12:59:50 | 200 |      8.2512ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/21 - 13:03:53 | 403 |       537.5µs |       127.0.0.1 | GET      "/api/order"
+[GIN] 2024/09/21 - 13:04:44 | 400 |       366.3µs |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/21 - 13:39:17 | 201 |      3.0188ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/21 - 13:50:34 | 200 |      1.8276ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/21 - 13:51:08 | 200 |      1.1207ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/21 - 13:53:20 | 201 |      5.7232ms |       127.0.0.1 | POST     "/api/order"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/21 - 13:57:53 | 401 |            0s |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/21 - 13:59:22 | 201 |      12.926ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/21 - 14:02:08 | 201 |      5.1206ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/21 - 14:02:27 | 200 |      1.0701ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/21 - 14:04:42 | 200 |      3.8419ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/21 - 14:07:51 | 201 |       8.889ms |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/21 - 14:14:21 | 400 |      1.2935ms |       127.0.0.1 | GET      "/api/order/:3"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/21 - 14:16:15 | 400 |       261.5µs |       127.0.0.1 | GET      "/api/order/:3"
+[GIN] 2024/09/21 - 14:16:39 | 400 |       621.3µs |       127.0.0.1 | GET      "/api/order/:3"
+[GIN] 2024/09/21 - 14:17:29 | 400 |       547.6µs |       127.0.0.1 | GET      "/api/order/:3"
+[GIN] 2024/09/21 - 14:29:58 | 400 |      1.0838ms |       127.0.0.1 | GET      "/api/order/:2"
+[GIN] 2024/09/21 - 14:30:04 | 400 |      1.1028ms |       127.0.0.1 | GET      "/api/order/:1"
+[GIN] 2024/09/21 - 14:33:56 | 400 |       540.9µs |       127.0.0.1 | GET      "/api/order/:3"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/21 - 14:39:20 | 201 |    189.8899ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/21 - 14:39:42 | 200 |      2.2389ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/21 - 14:40:25 | 200 |      5.0936ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/21 - 14:44:35 | 400 |       530.1µs |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/21 - 14:45:48 | 400 |       542.9µs |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/21 - 14:53:33 | 200 |       779.7µs |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/21 - 14:53:33 | 200 |       108.8µs |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/21 - 14:53:33 | 200 |       573.7µs |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/21 - 14:53:33 | 200 |      2.1597ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/21 - 14:53:33 | 500 |            0s |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/21 - 14:53:33 | 200 |       490.4µs |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN] 2024/09/21 - 14:53:34 | 200 |       852.4µs |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/21 - 14:53:34 | 500 |            0s |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/21 - 14:54:48 | 403 |      1.2056ms |       127.0.0.1 | POST     "/api/product"
+[GIN] 2024/09/21 - 14:56:19 | 403 |       542.3µs |       127.0.0.1 | POST     "/api/product"
+[GIN] 2024/09/21 - 14:56:32 | 200 |      1.0473ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/21 - 14:57:30 | 400 |       555.6µs |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/21 - 15:07:28 | 200 |      7.7165ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/21 - 15:12:16 | 201 |      6.2957ms |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/21 - 15:15:52 | 200 |       1.643ms |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/21 - 15:19:08 | 200 |      1.0494ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/21 - 16:01:33 | 201 |      7.8022ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/21 - 16:01:46 | 200 |      1.0608ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/21 - 16:03:33 | 200 |      2.6201ms |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/21 - 16:04:32 | 200 |      1.6687ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/21 - 16:05:59 | 201 |      3.2355ms |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/21 - 16:09:14 | 200 |      1.5333ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/21 - 16:34:58 | 200 |       535.2µs |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/21 - 16:34:58 | 200 |      5.4312ms |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/21 - 16:34:58 | 200 |      1.5668ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/21 - 16:34:58 | 200 |         549µs |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/21 - 16:34:58 | 500 |            0s |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/21 - 16:34:58 | 200 |      2.3875ms |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/21 - 16:58:26 | 200 |       322.6µs |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/21 - 16:58:26 | 200 |      7.8167ms |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/21 - 16:58:26 | 200 |      1.9283ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/21 - 16:58:26 | 200 |       518.1µs |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/21 - 16:58:26 | 500 |            0s |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/21 - 16:58:26 | 200 |      5.2386ms |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN] 2024/09/21 - 16:58:27 | 200 |      5.7797ms |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/21 - 16:58:27 | 500 |            0s |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/21 - 17:00:04 | 200 |            0s |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/21 - 17:00:04 | 500 |            0s |             ::1 | GET      "/swagger/doc.json"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/21 - 17:01:57 | 200 |       955.8µs |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/21 - 17:01:57 | 200 |      3.8355ms |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/21 - 17:01:57 | 200 |      1.0551ms |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/21 - 17:01:57 | 200 |      4.2995ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/21 - 17:01:57 | 500 |            0s |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/21 - 17:01:57 | 200 |            0s |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/21 - 17:04:14 | 200 |       509.3µs |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/21 - 17:04:14 | 304 |            0s |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/21 - 17:04:14 | 304 |      1.3739ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/21 - 17:04:14 | 304 |            0s |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/21 - 17:04:14 | 500 |            0s |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/21 - 17:04:14 | 304 |      2.5897ms |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN] 2024/09/21 - 17:04:21 | 200 |       7.905ms |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/21 - 17:04:21 | 500 |            0s |             ::1 | GET      "/swagger/doc.json"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/21 - 17:05:42 | 200 |       529.4µs |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/21 - 17:05:42 | 200 |     12.0784ms |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/21 - 17:05:42 | 200 |       557.6µs |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/21 - 17:05:42 | 200 |      1.2204ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/21 - 17:05:42 | 200 |      2.1576ms |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/21 - 17:05:42 | 200 |       2.475ms |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/23 - 11:07:59 | 201 |    130.5354ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/23 - 11:09:05 | 201 |      3.6524ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/23 - 11:09:21 | 200 |      1.1641ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/23 - 11:10:01 | 200 |      2.3523ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/23 - 11:11:54 | 201 |      2.7026ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/23 - 12:55:59 | 401 |       720.8µs |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/23 - 12:58:11 | 201 |       7.695ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/23 - 12:58:44 | 200 |      1.7046ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/23 - 12:59:46 | 200 |      1.5986ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/23 - 13:00:06 | 200 |       2.288ms |       127.0.0.1 | GET      "/api/category"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/23 - 13:01:30 | 200 |       1.456ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/23 - 13:02:46 | 200 |      5.1782ms |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/23 - 13:03:49 | 200 |      2.3204ms |       127.0.0.1 | GET      "/api/product"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/23 - 13:09:07 | 200 |      3.2567ms |       127.0.0.1 | GET      "/api/product"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/23 - 14:06:37 | 401 |       565.9µs |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/23 - 14:07:30 | 404 |            0s |       127.0.0.1 | GET      "/auth/sign-up"
+[GIN] 2024/09/23 - 14:07:38 | 201 |     14.6435ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/23 - 14:08:09 | 200 |      2.3847ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/23 - 14:08:39 | 200 |      2.9403ms |       127.0.0.1 | GET      "/api/product"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/23 - 14:11:53 | 200 |    162.7288ms |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/23 - 14:12:31 | 200 |      4.0213ms |       127.0.0.1 | GET      "/api/product"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/23 - 14:18:14 | 200 |      1.1075ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/23 - 14:18:28 | 200 |      4.3254ms |       127.0.0.1 | GET      "/api/category"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/23 - 17:10:43 | 404 |            0s |       127.0.0.1 | GET      "/auth/sign-up"
+[GIN] 2024/09/23 - 17:10:48 | 201 |     16.2011ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/23 - 17:11:03 | 200 |      1.1952ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/23 - 17:11:38 | 200 |     10.0245ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/23 - 17:11:51 | 200 |       5.038ms |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/23 - 17:12:11 | 200 |      1.0377ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/23 - 17:14:00 | 201 |     11.9683ms |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/23 - 17:14:57 | 400 |       527.4µs |       127.0.0.1 | GET      "/api/order/:1"
+[GIN] 2024/09/23 - 17:15:25 | 200 |       1.896ms |       127.0.0.1 | GET      "/api/order/1"
+[GIN] 2024/09/23 - 18:03:01 | 404 |            0s |       127.0.0.1 | GET      "/api/wishlist"
+[GIN] 2024/09/23 - 18:03:10 | 201 |      6.3942ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/23 - 18:03:57 | 200 |      1.1152ms |       127.0.0.1 | GET      "/api/wishlist/4"
+[GIN] 2024/09/23 - 18:04:33 | 200 |       626.5µs |       127.0.0.1 | GET      "/api/wishlist/12"
+[GIN] 2024/09/23 - 18:05:07 | 200 |      1.9202ms |       127.0.0.1 | GET      "/api/order/1"
+[GIN] 2024/09/23 - 18:05:40 | 200 |        1.16ms |       127.0.0.1 | GET      "/api/wishlist/12"
+[GIN] 2024/09/23 - 18:06:27 | 200 |      1.1941ms |       127.0.0.1 | GET      "/api/wishlist/12"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/23 - 23:29:32 | 201 |      9.7263ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/23 - 23:36:48 | 200 |     49.9336ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/24 - 10:11:18 | 201 |     16.2616ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/24 - 10:11:45 | 200 |      4.5792ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/24 - 10:12:03 | 200 |     10.4499ms |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/24 - 10:12:48 | 200 |      2.4431ms |       127.0.0.1 | GET      "/api/category/1"
+[GIN] 2024/09/24 - 10:12:54 | 200 |      3.5771ms |       127.0.0.1 | GET      "/api/category/5"
+[GIN] 2024/09/24 - 10:13:46 | 200 |    280.3843ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/24 - 10:14:06 | 403 |       371.5µs |       127.0.0.1 | GET      "/api/product/9"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/24 - 10:15:05 | 500 |     35.3114ms |       127.0.0.1 | GET      "/api/product/9"
+[GIN] 2024/09/24 - 10:15:50 | 200 |      4.5237ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/24 - 10:16:01 | 500 |     22.4547ms |       127.0.0.1 | GET      "/api/product/9"
+[GIN] 2024/09/24 - 10:16:10 | 500 |     34.6923ms |       127.0.0.1 | GET      "/api/product/1"
+[GIN] 2024/09/24 - 10:16:51 | 401 |            0s |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/24 - 10:17:07 | 201 |      7.8408ms |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/24 - 10:17:54 | 200 |      2.3846ms |       127.0.0.1 | GET      "/api/order/2"
+[GIN] 2024/09/24 - 10:18:34 | 401 |            0s |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/24 - 10:18:44 | 201 |     10.8741ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/24 - 10:18:59 | 200 |       527.2µs |       127.0.0.1 | GET      "/api/wishlist/14"
+[GIN] 2024/09/24 - 10:19:19 | 200 |      1.0414ms |       127.0.0.1 | GET      "/api/wishlist/5"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/24 - 11:14:52 | 201 |      8.0865ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/24 - 11:15:13 | 200 |      1.0958ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/24 - 11:15:47 | 200 |      4.1489ms |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/24 - 11:16:41 | 200 |      1.3449ms |       127.0.0.1 | GET      "/api/category/4"
+[GIN] 2024/09/24 - 11:17:04 | 200 |      1.8979ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/24 - 11:18:35 | 201 |      3.0365ms |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/24 - 11:19:20 | 500 |      3.8368ms |       127.0.0.1 | GET      "/api/order/3"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/24 - 11:21:01 | 500 |      2.7121ms |       127.0.0.1 | GET      "/api/order/3"
+[GIN] 2024/09/24 - 11:21:09 | 500 |      4.1645ms |       127.0.0.1 | GET      "/api/order/2"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/24 - 11:22:49 | 500 |      2.7904ms |       127.0.0.1 | GET      "/api/order/3"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/24 - 11:24:29 | 200 |      6.6762ms |       127.0.0.1 | GET      "/api/order/3"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/24 - 11:25:50 | 200 |      7.1807ms |       127.0.0.1 | GET      "/api/order/3"
+[GIN] 2024/09/24 - 11:28:06 | 401 |       519.9µs |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/24 - 11:28:34 | 201 |      6.0177ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/24 - 11:30:19 | 401 |       504.2µs |       127.0.0.1 | GET      "/api/wishlist/15"
+[GIN] 2024/09/24 - 11:30:30 | 200 |       537.1µs |       127.0.0.1 | GET      "/api/wishlist/15"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/24 - 11:59:36 | 500 |      2.3589ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/24 - 12:00:35 | 200 |      1.8506ms |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/24 - 12:00:37 | 200 |      2.1902ms |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/24 - 12:03:21 | 200 |      6.2014ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=5000"
+[GIN] 2024/09/24 - 12:04:13 | 500 |      2.2843ms |       127.0.0.1 | GET      "/api/product?description=2021"
+[GIN] 2024/09/24 - 12:04:57 | 500 |      2.1875ms |       127.0.0.1 | GET      "/api/product?max-price=2000"
+[GIN] 2024/09/24 - 12:05:28 | 200 |     10.1654ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=2000&description=2021"
+[GIN] 2024/09/24 - 12:06:15 | 401 |            0s |       127.0.0.1 | GET      "/api/product/1"
+[GIN] 2024/09/24 - 12:06:40 | 500 |     13.8628ms |       127.0.0.1 | GET      "/api/product/1"
+[GIN] 2024/09/24 - 12:11:45 | 500 |      1.0551ms |       127.0.0.1 | GET      "/api/product?min-price=1000"
+[GIN] 2024/09/24 - 12:12:05 | 200 |      2.0296ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=10000"
+[GIN] 2024/09/24 - 12:14:00 | 500 |      1.0736ms |       127.0.0.1 | GET      "/api/product?min-price=1000&category=1"
+[GIN] 2024/09/24 - 12:14:30 | 500 |      1.0585ms |       127.0.0.1 | GET      "/api/product?min-price=1000&category=2"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/24 - 12:43:13 | 401 |            0s |       127.0.0.1 | GET      "/api/product?min-price=1000&category=2"
+[GIN] 2024/09/24 - 12:43:45 | 201 |      12.885ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/24 - 12:44:01 | 200 |       1.935ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/24 - 12:44:21 | 200 |      3.2214ms |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/24 - 12:44:40 | 200 |      1.7285ms |       127.0.0.1 | GET      "/api/category/1"
+[GIN] 2024/09/24 - 12:45:02 | 401 |            0s |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=2000"
+[GIN] 2024/09/24 - 12:45:10 | 200 |      4.6807ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=2000"
+[GIN] 2024/09/24 - 12:45:31 | 500 |       1.078ms |       127.0.0.1 | GET      "/api/product?description=2021"
+[GIN] 2024/09/24 - 12:45:51 | 500 |      1.7381ms |       127.0.0.1 | GET      "/api/product?min-price=1000&description=2021"
+[GIN] 2024/09/24 - 12:46:19 | 500 |      1.1219ms |       127.0.0.1 | GET      "/api/product?min-price=1000"
+[GIN] 2024/09/24 - 12:46:39 | 200 |      1.6569ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=2000"
+[GIN] 2024/09/24 - 12:46:54 | 500 |      1.0704ms |       127.0.0.1 | GET      "/api/product?min-price=1000&category=2"
+[GIN] 2024/09/24 - 12:47:48 | 200 |      2.3792ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=10000&category=2"
+[GIN] 2024/09/24 - 12:48:18 | 500 |      2.5449ms |       127.0.0.1 | GET      "/api/product?max-price=10000&category=2"
+[GIN] 2024/09/24 - 12:48:41 | 500 |       6.847ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=10000&description=2021&category=2"
+[GIN] 2024/09/24 - 12:48:52 | 200 |      3.5204ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=10000&category=2"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/24 - 12:51:36 | 200 |      4.6945ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=10000&category=2"
+[GIN] 2024/09/24 - 12:51:48 | 200 |      2.1231ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=10000"
+[GIN] 2024/09/24 - 12:51:59 | 200 |      1.8311ms |       127.0.0.1 | GET      "/api/product?min-price=8000&max-price=10000"
+[GIN] 2024/09/24 - 12:52:34 | 500 |      4.8028ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=10000&description=2021"
+[GIN] 2024/09/24 - 12:52:52 | 500 |       1.258ms |       127.0.0.1 | GET      "/api/product?min-price=1000&description=2021"
+[GIN] 2024/09/24 - 12:53:13 | 200 |      1.9116ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=10000"
+[GIN] 2024/09/24 - 12:53:35 | 500 |      2.2579ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=10000&description=2022"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/24 - 12:55:39 | 200 |      4.9831ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=10000&description=2022"
+[GIN] 2024/09/24 - 12:55:52 | 500 |       1.046ms |       127.0.0.1 | GET      "/api/product?min-price=1000&description=2022"
+[GIN] 2024/09/24 - 12:56:13 | 500 |      1.0422ms |       127.0.0.1 | GET      "/api/product?min-price=1000&description=2022&category=2"
+[GIN] 2024/09/24 - 12:56:33 | 200 |       1.926ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=10000&description=2022&category=2"
+[GIN] 2024/09/24 - 12:57:01 | 200 |      1.7602ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=10000&description=2022"
+[GIN] 2024/09/24 - 12:57:30 | 500 |      2.2175ms |       127.0.0.1 | GET      "/api/product?min-price=1000&category=5"
+[GIN] 2024/09/24 - 13:03:03 | 200 |      4.3375ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=5000&category=5"
+[GIN] 2024/09/24 - 13:03:40 | 201 |      9.8167ms |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/24 - 13:04:55 | 401 |       510.9µs |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/24 - 13:05:08 | 401 |            0s |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/24 - 13:05:16 | 201 |      4.0246ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/24 - 13:05:50 | 401 |            0s |       127.0.0.1 | GET      "/api/wishlist/16"
+[GIN] 2024/09/24 - 13:05:58 | 200 |      1.4469ms |       127.0.0.1 | GET      "/api/wishlist/16"
+[GIN] 2024/09/24 - 13:10:44 | 201 |      2.7318ms |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/24 - 13:17:52 | 200 |       607.6µs |       127.0.0.1 | GET      "/api/wishlist/16"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/24 - 13:33:57 | 201 |     10.4219ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/24 - 13:34:21 | 200 |      4.8368ms |       127.0.0.1 | GET      "/api/wishlist/2"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 10:11:26 | 201 |     11.2936ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/25 - 10:11:45 | 200 |      1.8615ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/25 - 10:12:15 | 200 |      5.6175ms |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/25 - 10:12:35 | 200 |      3.2463ms |       127.0.0.1 | GET      "/api/category/2"
+[GIN] 2024/09/25 - 10:13:04 | 200 |      1.6233ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=2000"
+[GIN] 2024/09/25 - 10:13:21 | 500 |      2.5947ms |       127.0.0.1 | GET      "/api/product?min-price=1000"
+[GIN] 2024/09/25 - 10:14:39 | 500 |        1.82ms |       127.0.0.1 | GET      "/api/product?min-price=1000"
+[GIN] 2024/09/25 - 10:14:42 | 500 |      3.1332ms |       127.0.0.1 | GET      "/api/product?min-price=1000"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 10:16:19 | 500 |      1.5613ms |       127.0.0.1 | GET      "/api/product?min-price=1000"
+[GIN] 2024/09/25 - 10:16:21 | 500 |      8.5912ms |       127.0.0.1 | GET      "/api/product?min-price=1000"
+[GIN] 2024/09/25 - 10:16:35 | 200 |      1.7259ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=2000"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 10:20:52 | 200 |      4.6444ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=2000"
+[GIN] 2024/09/25 - 10:21:05 | 500 |      1.7885ms |       127.0.0.1 | GET      "/api/product?min-price=1000"
+[GIN] 2024/09/25 - 10:21:18 | 500 |      1.8273ms |       127.0.0.1 | GET      "/api/product?min-price=1000&category=1"
+[GIN] 2024/09/25 - 10:21:39 | 200 |      5.7536ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=5000&category=1"
+[GIN] 2024/09/25 - 10:23:10 | 500 |      2.2459ms |       127.0.0.1 | GET      "/api/product?min-price=1000&category=1"
+[GIN] 2024/09/25 - 10:23:26 | 200 |      4.1656ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=5000&description=2021"
+[GIN] 2024/09/25 - 10:23:42 | 500 |      2.5651ms |       127.0.0.1 | GET      "/api/product?min-price=1000&description=2021"
+[GIN] 2024/09/25 - 10:23:48 | 500 |       7.242ms |       127.0.0.1 | GET      "/api/product?min-price=1000&&description=2021"
+[GIN] 2024/09/25 - 10:24:11 | 500 |      2.2643ms |       127.0.0.1 | GET      "/api/product?max-price=5000&description=2021"
+[GIN] 2024/09/25 - 10:24:20 | 500 |      3.8656ms |       127.0.0.1 | GET      "/api/product?max-price=10000&description=2021"
+[GIN] 2024/09/25 - 10:24:25 | 500 |      4.9501ms |       127.0.0.1 | GET      "/api/product?max-price=10000&description=2022"
+[GIN] 2024/09/25 - 10:24:38 | 200 |      5.3012ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=5000&description=2024"
+[GIN] 2024/09/25 - 10:25:53 | 201 |      8.1618ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/25 - 10:26:32 | 200 |      2.1284ms |       127.0.0.1 | GET      "/api/wishlist/3"
+[GIN] 2024/09/25 - 10:28:47 | 201 |      5.5604ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 10:29:56 | 200 |      7.3052ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 10:31:21 | 200 |      7.2057ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 10:34:03 | 200 |      7.3353ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 10:37:29 | 200 |      3.8259ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 10:42:12 | 200 |      4.4585ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/25 - 10:42:18 | 200 |      2.2455ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/25 - 10:45:50 | 404 |            0s |       127.0.0.1 | DELETE   "/api/wishlist/10"
+[GIN] 2024/09/25 - 10:46:36 | 404 |            0s |       127.0.0.1 | DELETE   "/api/wishlist/17"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 10:50:27 | 200 |      9.6216ms |       127.0.0.1 | DELETE   "/api/wishlist/10"
+[GIN] 2024/09/25 - 10:51:41 | 404 |            0s |       127.0.0.1 | DELETE   "/api/order/5"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 11:03:19 | 401 |            0s |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/25 - 11:03:53 | 201 |      5.4454ms |       127.0.0.1 | POST     "/api/order"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 11:28:28 | 401 |      1.1604ms |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/25 - 11:28:48 | 201 |     10.6974ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/25 - 11:29:02 | 200 |      1.8428ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/25 - 11:29:25 | 400 |       553.7µs |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/25 - 11:29:41 | 400 |       547.4µs |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/25 - 11:31:07 | 201 |      6.1992ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/25 - 11:31:22 | 200 |       542.9µs |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/25 - 11:31:37 | 200 |      1.5365ms |       127.0.0.1 | GET      "/api/order"
+[GIN] 2024/09/25 - 11:33:12 | 400 |       543.6µs |       127.0.0.1 | POST     "/api/product"
+[GIN] 2024/09/25 - 11:34:41 | 500 |     32.9343ms |       127.0.0.1 | POST     "/api/product"
+[GIN] 2024/09/25 - 11:41:52 | 200 |    648.1734ms |       127.0.0.1 | GET      "/api/order"
+[GIN] 2024/09/25 - 11:42:06 | 200 |      1.0536ms |       127.0.0.1 | GET      "/api/order"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 11:43:52 | 200 |      5.0259ms |       127.0.0.1 | GET      "/api/order"
+[GIN] 2024/09/25 - 11:44:37 | 404 |            0s |       127.0.0.1 | DELETE   "/api/order/1"
+[GIN] 2024/09/25 - 11:45:09 | 401 |       519.6µs |       127.0.0.1 | GET      "/api/order/5"
+[GIN] 2024/09/25 - 11:45:31 | 200 |      1.4369ms |       127.0.0.1 | GET      "/api/order/5"
+[GIN] 2024/09/25 - 11:45:54 | 200 |      1.7504ms |       127.0.0.1 | GET      "/api/users"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 11:50:31 | 200 |      4.8097ms |       127.0.0.1 | GET      "/api/users"
+[GIN] 2024/09/25 - 11:51:39 | 500 |      5.2374ms |       127.0.0.1 | POST     "/api/category"
+[GIN] 2024/09/25 - 11:52:18 | 500 |     13.4323ms |       127.0.0.1 | POST     "/api/category"
+[GIN] 2024/09/25 - 11:54:28 | 200 |      2.8154ms |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/25 - 11:54:29 | 200 |      2.2964ms |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/25 - 11:54:29 | 200 |       665.5µs |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/25 - 11:54:29 | 200 |      2.2432ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/25 - 11:54:29 | 200 |       593.7µs |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/25 - 11:55:09 | 200 |            0s |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/25 - 11:55:09 | 304 |            0s |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/25 - 11:55:09 | 304 |       751.9µs |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/25 - 11:55:09 | 304 |            0s |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/25 - 11:55:09 | 200 |       919.9µs |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/25 - 11:55:09 | 200 |            0s |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 12:07:47 | 200 |         530µs |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/25 - 12:07:47 | 200 |       727.3µs |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/25 - 12:07:47 | 200 |       533.4µs |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/25 - 12:07:47 | 200 |      1.0379ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/25 - 12:07:47 | 200 |       400.8µs |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/25 - 12:07:47 | 200 |        67.8µs |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 12:10:00 | 200 |      1.0941ms |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/25 - 12:10:00 | 200 |       820.9µs |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/25 - 12:10:00 | 200 |       633.3µs |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/25 - 12:10:00 | 200 |      3.0217ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/25 - 12:10:01 | 200 |       523.3µs |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/25 - 12:10:01 | 200 |            0s |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 12:13:29 | 200 |      1.9721ms |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/25 - 12:13:29 | 200 |      1.1895ms |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/25 - 12:13:29 | 200 |      2.9967ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/25 - 12:13:29 | 200 |      1.0686ms |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/25 - 12:13:29 | 200 |       494.2µs |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/25 - 12:13:29 | 200 |       650.1µs |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 12:25:09 | 200 |      1.6355ms |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/25 - 12:25:09 | 200 |      1.0005ms |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/25 - 12:25:09 | 200 |       1.651ms |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/25 - 12:25:09 | 200 |      3.9626ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/25 - 12:25:10 | 200 |       675.9µs |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/25 - 12:25:10 | 200 |       587.9µs |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN] 2024/09/25 - 12:26:15 | 201 |      6.4616ms |             ::1 | POST     "/auth/sign-up"
+[GIN] 2024/09/25 - 12:26:44 | 200 |      1.0577ms |             ::1 | POST     "/auth/sign-in"
+[GIN] 2024/09/25 - 12:28:29 | 200 |      1.7779ms |             ::1 | GET      "/api/category?is_response=false&price=4000"
+[GIN] 2024/09/25 - 12:29:40 | 200 |        46.7µs |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/25 - 12:29:40 | 304 |       922.2µs |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/25 - 12:29:40 | 304 |       504.7µs |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/25 - 12:29:40 | 304 |            0s |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/25 - 12:29:41 | 200 |       390.1µs |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/25 - 12:29:41 | 304 |       249.3µs |             ::1 | GET      "/swagger/favicon-32x32.png"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 22:57:03 | 201 |      8.9713ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/25 - 22:57:26 | 200 |      2.2887ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/25 - 22:57:58 | 401 |       536.4µs |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/25 - 22:58:12 | 200 |       2.156ms |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/25 - 22:58:51 | 401 |            0s |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/25 - 22:59:00 | 500 |       2.031ms |       127.0.0.1 | GET      "/api/product"
+[GIN] 2024/09/25 - 22:59:34 | 200 |      9.2962ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=5000"
+[GIN] 2024/09/25 - 23:00:43 | 200 |      2.6669ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=5000&category=4"
+[GIN] 2024/09/25 - 23:01:21 | 200 |      1.9375ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=5000&category=4&description=2024"
+[GIN] 2024/09/25 - 23:01:27 | 200 |      2.6103ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=5000&category=4&description=2023"
+[GIN] 2024/09/25 - 23:02:08 | 200 |      3.6174ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=5000&category=5&description=2024"
+[GIN] 2024/09/25 - 23:02:48 | 401 |            0s |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/25 - 23:03:31 | 400 |      1.1855ms |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/25 - 23:04:10 | 400 |       573.3µs |       127.0.0.1 | POST     "/api/order"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/25 - 23:08:46 | 201 |     14.8782ms |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/25 - 23:10:10 | 401 |       541.3µs |       127.0.0.1 | GET      "/api/order/3"
+[GIN] 2024/09/25 - 23:10:38 | 200 |      3.0105ms |       127.0.0.1 | GET      "/api/order/3"
+[GIN] 2024/09/25 - 23:11:03 | 200 |      1.5832ms |       127.0.0.1 | GET      "/api/order/7"
+[GIN] 2024/09/25 - 23:11:49 | 404 |            0s |       127.0.0.1 | DELETE   "/api/order/7"
+[GIN] 2024/09/25 - 23:12:09 | 500 |     20.4973ms |       127.0.0.1 | GET      "/api/product/23"
+[GIN] 2024/09/25 - 23:13:40 | 401 |       128.4µs |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/25 - 23:13:55 | 201 |       9.746ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/25 - 23:14:18 | 401 |            0s |       127.0.0.1 | GET      "/api/wishlist/11"
+[GIN] 2024/09/25 - 23:14:28 | 200 |       3.176ms |       127.0.0.1 | GET      "/api/wishlist/11"
+[GIN] 2024/09/25 - 23:16:08 | 404 |      4.0712ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/25 - 23:16:22 | 201 |      4.0891ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/25 - 23:16:35 | 200 |       902.5µs |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/25 - 23:16:53 | 401 |       403.6µs |       127.0.0.1 | GET      "/api/users"
+[GIN] 2024/09/25 - 23:17:06 | 200 |      3.5823ms |       127.0.0.1 | GET      "/api/users"
+[GIN] 2024/09/25 - 23:18:35 | 401 |            0s |       127.0.0.1 | GET      "/api/order"
+[GIN] 2024/09/25 - 23:18:45 | 200 |      3.2954ms |       127.0.0.1 | GET      "/api/order"
+[GIN] 2024/09/25 - 23:27:11 | 401 |      1.1415ms |       127.0.0.1 | DELETE   "/api/wishlist/10"
+[GIN] 2024/09/25 - 23:27:26 | 200 |     10.5831ms |       127.0.0.1 | DELETE   "/api/wishlist/11"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/26 - 14:41:55 | 201 |      6.6211ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/26 - 14:42:13 | 200 |      2.1625ms |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/26 - 14:42:26 | 401 |       305.4µs |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/26 - 14:42:40 | 200 |      2.2424ms |       127.0.0.1 | GET      "/api/category"
+[GIN] 2024/09/26 - 14:42:52 | 401 |            0s |       127.0.0.1 | GET      "/api/category/2"
+[GIN] 2024/09/26 - 14:43:02 | 200 |      1.1011ms |       127.0.0.1 | GET      "/api/category/5"
+[GIN] 2024/09/26 - 14:43:36 | 401 |       556.8µs |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=5000"
+[GIN] 2024/09/26 - 14:43:43 | 200 |      7.0786ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=5000"
+[GIN] 2024/09/26 - 14:44:05 | 200 |      3.9181ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=5000&category=4"
+[GIN] 2024/09/26 - 14:44:27 | 200 |      2.2207ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=5000&category=4&description=2024"
+[GIN] 2024/09/26 - 14:44:29 | 200 |      3.7735ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=5000&category=4&description=2023"
+[GIN] 2024/09/26 - 14:45:02 | 401 |            0s |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/26 - 14:45:37 | 201 |      3.3612ms |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/26 - 14:45:55 | 401 |       553.7µs |       127.0.0.1 | GET      "/api/order/8"
+[GIN] 2024/09/26 - 14:46:03 | 200 |      4.0016ms |       127.0.0.1 | GET      "/api/order/8"
+[GIN] 2024/09/26 - 14:46:36 | 200 |       3.775ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=12000"
+[GIN] 2024/09/26 - 14:46:59 | 200 |      3.8496ms |       127.0.0.1 | GET      "/api/product?min-price=1000&max-price=12000&category=2"
+[GIN] 2024/09/26 - 14:47:39 | 201 |      5.9721ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/26 - 14:47:58 | 401 |            0s |       127.0.0.1 | GET      "/api/wishlist/11"
+[GIN] 2024/09/26 - 14:48:15 | 200 |      1.9226ms |       127.0.0.1 | GET      "/api/wishlist/12"
+[GIN] 2024/09/26 - 14:49:01 | 201 |      2.6328ms |       127.0.0.1 | POST     "/auth/sign-up"
+[GIN] 2024/09/26 - 14:49:17 | 200 |       606.9µs |       127.0.0.1 | POST     "/auth/sign-in"
+[GIN] 2024/09/26 - 14:49:28 | 401 |        41.3µs |       127.0.0.1 | GET      "/api/order"
+[GIN] 2024/09/26 - 14:49:37 | 200 |      4.0192ms |       127.0.0.1 | GET      "/api/order"
+[GIN] 2024/09/26 - 14:50:17 | 401 |            0s |       127.0.0.1 | GET      "/api/users"
+[GIN] 2024/09/26 - 14:50:26 | 200 |      4.0533ms |       127.0.0.1 | GET      "/api/users"
+[GIN] 2024/09/26 - 14:51:27 | 200 |       537.2µs |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/26 - 14:51:27 | 200 |       782.9µs |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/26 - 14:51:27 | 200 |      2.2312ms |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/26 - 14:51:28 | 200 |       6.533ms |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/26 - 14:51:28 | 200 |       579.7µs |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/26 - 14:56:53 | 200 |            0s |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/26 - 14:56:53 | 304 |       623.5µs |             ::1 | GET      "/swagger/swagger-ui.css"
+[GIN] 2024/09/26 - 14:56:53 | 304 |            0s |             ::1 | GET      "/swagger/swagger-ui-bundle.js"
+[GIN] 2024/09/26 - 14:56:53 | 304 |            0s |             ::1 | GET      "/swagger/swagger-ui-standalone-preset.js"
+[GIN] 2024/09/26 - 14:56:53 | 200 |       183.7µs |             ::1 | GET      "/swagger/doc.json"
+[GIN] 2024/09/26 - 14:57:02 | 200 |       529.6µs |             ::1 | GET      "/swagger/index.html"
+[GIN] 2024/09/26 - 14:57:03 | 200 |         763µs |             ::1 | GET      "/swagger/doc.json"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN] 2024/09/26 - 14:59:32 | 201 |      7.9935ms |       127.0.0.1 | POST     "/api/order"
+[GIN] 2024/09/26 - 14:59:48 | 200 |      4.3123ms |       127.0.0.1 | GET      "/api/order"
+[GIN] 2024/09/26 - 15:00:02 | 201 |     11.8507ms |       127.0.0.1 | POST     "/api/wishlist"
+[GIN] 2024/09/26 - 15:00:10 | 200 |      1.7374ms |       127.0.0.1 | GET      "/api/wishlist/1"
+[GIN] 2024/09/26 - 15:00:45 | 401 |            0s |       127.0.0.1 | DELETE   "/api/wishlist/1"
+[GIN] 2024/09/26 - 15:01:13 | 401 |            0s |       127.0.0.1 | DELETE   "/api/wishlist/1"
+[GIN] 2024/09/26 - 15:01:24 | 200 |       5.654ms |       127.0.0.1 | DELETE   "/api/wishlist/1"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
